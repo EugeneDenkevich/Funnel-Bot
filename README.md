@@ -10,10 +10,10 @@ This is a game funnel that implemented on Telegram platform.
 
 ### Done:
 - Registration
-- logging in
-- logging out
-- parser and sender bots
-- client’s and admin’s parts
+- Logging in
+- Logging out
+- Parser and sender bots
+- Client’s and admin’s parts
 
 ## Launching
 Before lanching paste the necessary data in .env-example file
