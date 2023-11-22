@@ -1,6 +1,20 @@
 # Funnel-Bot
 This is a game funnel that implemented on Telegram platform.
 
+### Used:
+- Aiogram
+- SQLAlchemy
+- Telethon
+- SQLite3
+- APScheduler
+
+### Done:
+- Registration
+- logging in
+- logging out
+- parser and sender bots
+- client’s and admin’s parts
+
 ## Launching
 Before lanching paste the necessary data in .env-example file
 ```bash
